@@ -1,0 +1,2200 @@
+fileFormatVersion: 2
+guid: 5b5bf5f66776254439f97e781fcb8f4f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: epidemic_panic_virus_sprites_0
+    21300002: epidemic_panic_virus_sprites_1
+    21300004: epidemic_panic_virus_sprites_2
+    21300006: epidemic_panic_virus_sprites_3
+    21300008: epidemic_panic_virus_sprites_4
+    21300010: epidemic_panic_virus_sprites_5
+    21300012: epidemic_panic_virus_sprites_6
+    21300014: epidemic_panic_virus_sprites_7
+    21300016: epidemic_panic_virus_sprites_8
+    21300018: epidemic_panic_virus_sprites_9
+    21300020: epidemic_panic_virus_sprites_10
+    21300022: epidemic_panic_virus_sprites_11
+    21300024: epidemic_panic_virus_sprites_12
+    21300026: epidemic_panic_virus_sprites_13
+    21300028: epidemic_panic_virus_sprites_14
+    21300030: epidemic_panic_virus_sprites_15
+    21300032: epidemic_panic_virus_sprites_16
+    21300034: epidemic_panic_virus_sprites_17
+    21300036: epidemic_panic_virus_sprites_18
+    21300038: epidemic_panic_virus_sprites_19
+    21300040: epidemic_panic_virus_sprites_20
+    21300042: epidemic_panic_virus_sprites_21
+    21300044: epidemic_panic_virus_sprites_22
+    21300046: epidemic_panic_virus_sprites_23
+    21300048: epidemic_panic_virus_sprites_24
+    21300050: epidemic_panic_virus_sprites_25
+    21300052: epidemic_panic_virus_sprites_26
+    21300054: epidemic_panic_virus_sprites_27
+    21300056: epidemic_panic_virus_sprites_28
+    21300058: epidemic_panic_virus_sprites_29
+    21300060: epidemic_panic_virus_sprites_30
+    21300062: epidemic_panic_virus_sprites_31
+    21300064: epidemic_panic_virus_sprites_32
+    21300066: epidemic_panic_virus_sprites_33
+    21300068: epidemic_panic_virus_sprites_34
+    21300070: epidemic_panic_virus_sprites_35
+    21300072: epidemic_panic_virus_sprites_36
+    21300074: epidemic_panic_virus_sprites_37
+    21300076: epidemic_panic_virus_sprites_38
+    21300078: epidemic_panic_virus_sprites_39
+    21300080: epidemic_panic_virus_sprites_40
+    21300082: epidemic_panic_virus_sprites_41
+    21300084: epidemic_panic_virus_sprites_42
+    21300086: epidemic_panic_virus_sprites_43
+    21300088: epidemic_panic_virus_sprites_44
+    21300090: epidemic_panic_virus_sprites_45
+    21300092: epidemic_panic_virus_sprites_46
+    21300094: epidemic_panic_virus_sprites_47
+    21300096: epidemic_panic_virus_sprites_48
+    21300098: epidemic_panic_virus_sprites_49
+    21300100: epidemic_panic_virus_sprites_50
+    21300102: epidemic_panic_virus_sprites_51
+    21300104: epidemic_panic_virus_sprites_52
+    21300106: epidemic_panic_virus_sprites_53
+    21300108: epidemic_panic_virus_sprites_54
+    21300110: epidemic_panic_virus_sprites_55
+    21300112: epidemic_panic_virus_sprites_56
+    21300114: epidemic_panic_virus_sprites_57
+    21300116: epidemic_panic_virus_sprites_58
+    21300118: epidemic_panic_virus_sprites_59
+    21300120: epidemic_panic_virus_sprites_60
+    21300122: epidemic_panic_virus_sprites_61
+    21300124: epidemic_panic_virus_sprites_62
+    21300126: epidemic_panic_virus_sprites_63
+    21300128: epidemic_panic_virus_sprites_64
+    21300130: epidemic_panic_virus_sprites_65
+    21300132: epidemic_panic_virus_sprites_66
+    21300134: epidemic_panic_virus_sprites_67
+    21300136: epidemic_panic_virus_sprites_68
+    21300138: epidemic_panic_virus_sprites_69
+    21300140: epidemic_panic_virus_sprites_70
+    21300142: epidemic_panic_virus_sprites_71
+    21300144: epidemic_panic_virus_sprites_72
+    21300146: epidemic_panic_virus_sprites_73
+    21300148: epidemic_panic_virus_sprites_74
+    21300150: epidemic_panic_virus_sprites_75
+    21300152: epidemic_panic_virus_sprites_76
+    21300154: epidemic_panic_virus_sprites_77
+    21300156: epidemic_panic_virus_sprites_78
+    21300158: epidemic_panic_virus_sprites_79
+    21300160: epidemic_panic_virus_sprites_80
+    21300162: epidemic_panic_virus_sprites_81
+    21300164: epidemic_panic_virus_sprites_82
+    21300166: epidemic_panic_virus_sprites_83
+    21300168: epidemic_panic_virus_sprites_84
+    21300170: epidemic_panic_virus_sprites_85
+    21300172: epidemic_panic_virus_sprites_86
+    21300174: epidemic_panic_virus_sprites_87
+    21300176: epidemic_panic_virus_sprites_88
+    21300178: epidemic_panic_virus_sprites_89
+    21300180: epidemic_panic_virus_sprites_90
+    21300182: epidemic_panic_virus_sprites_91
+    21300184: epidemic_panic_virus_sprites_92
+    21300186: epidemic_panic_virus_sprites_93
+    21300188: epidemic_panic_virus_sprites_94
+    21300190: epidemic_panic_virus_sprites_95
+    21300192: epidemic_panic_virus_sprites_96
+    21300194: epidemic_panic_virus_sprites_97
+    21300196: epidemic_panic_virus_sprites_98
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 403, y: 358, z: 1174, w: 153}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1625
+        width: 403
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7073a85602fcb418f66d69cccd2273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1626
+        width: 404
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e8c2c6e51e604b94920cd5b649a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1626
+        width: 401
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b49c85626df004f8a2e5af16170192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1625
+        width: 402
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a622f2ce2531249a976aa9e80e04f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1625
+        width: 394
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb87f618bd9ba5479682004a03b8cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1451
+        width: 401
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d376c36c6f456f942870ae9fa7f27858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1555
+        width: 451
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca28531e7276cce49ae147ddc6ccef8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1485
+        width: 339
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00497c80b1ba47b4185325268c9ed4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1455
+        width: 294
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d4ccc79298084c954513120d92668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1456
+        width: 291
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be419c313564f4dad059151cc2c527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1472
+        width: 86
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25598da0e14f34499314c917effb97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1449
+        width: 437
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478d76f17c1b4147911e2c65e6cf446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1318
+        width: 287
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525b73acfee84b4ba3d6964001a6fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1291
+        width: 288
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02801798aea23aa4dbe0038284018c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1358
+        width: 268
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc80fd56d8f7a34daae9dde063102a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1302
+        width: 177
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434544997efa4242a80ccd658cd1b8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1270
+        width: 391
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a260034eb8257f40afb7897b80bd8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1344
+        width: 435
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefdd06a008d2164981d953d08e2e1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1258
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9dcb1049bd5cf46b8ece2344227c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1277
+        width: 450
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a172ea12ed7b34483c911b11dcfbc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1152
+        width: 286
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095fc6217731f9a449fabdffe35e8473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1126
+        width: 284
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d1a6ba1e9b8c4bbfcb57807fec78d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1203
+        width: 267
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a320d8a80d3c8c40bffe22bb42ff2d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1096
+        width: 392
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74670414385cd184593bc376e0973d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1183
+        width: 446
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65180894d45d9e24ba4e7ffbb0586d30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1159
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337769f1f408ea0429e38094823047c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1105
+        width: 265
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb463f5abcdc3ff44a15e190bcbe75dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1096
+        width: 437
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01605bc9cbb4d0847a1b7afdc588af17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1052
+        width: 268
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e1948de7e0bb46ac7da2ea546a6f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1028
+        width: 268
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87acd72c5ad5f4041a05777dcf7441df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1060
+        width: 266
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eddd93c977797b4f85f66a2d74f48b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1008
+        width: 264
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6202f81d3e4ac44396fc9c2d3da543f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 923
+        width: 400
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9b2b733932144da362359deea7b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 995
+        width: 434
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8057932140760478011e38621a733e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 951
+        width: 265
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ca0eddb0fd12479b220146745a870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 929
+        width: 267
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40779c39c17da4a42aa2ff3e81803825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 961
+        width: 267
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307f2355c347fd428b2503f934ac1a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 911
+        width: 266
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac4bf454a2ea240bb27cca1ab1aca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 750
+        width: 394
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d3e26ff309ab42bb33638103c36d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 895
+        width: 435
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1760dea7ce984fd489f1d9b63ec6454d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 855
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1619df42fc9c54d98ebf83b5f83595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 834
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa24b5f5bf550840920be30bfcc7169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 833
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fadac1c6010df47a6f2b28ed11e786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 833
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a6edf71b15bda4f9efda92d19bd3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 813
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511682c9a6c71849a76b69a3b0218d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 798
+        width: 190
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cfb557ec9911c45b3517dd73b60ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 806
+        width: 443
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f833f95e8909a44885416793074b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 798
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a2cb8e7284354da631838005b7a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 778
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82ba9e5224db864284f75723a1b65b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 719
+        width: 40
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d62b8e5d56d644488960bb35dbcb28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 777
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91009f238a808e42a463d359d08b87e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 715
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f3bb2de455db948bbceee0babe0ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 577
+        width: 394
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42399241a92d2f045bafe596107dc372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 721
+        width: 441
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72f7c4ddc9a6f4a92085e92e31b4d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 742
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101746e5f1fcc94b9940941ca00870b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 721
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32a90326fcf7e4e8966798b25cc36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 721
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f984d73b4438f8a42b725aed2ab12638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 685
+        width: 193
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ce4503f08a8344a29d224a08c559f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 635
+        width: 437
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de9868df552d69408f42a32763e4e9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 624
+        width: 167
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02de41551e8a8f45ae8f295dcd82b92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 602
+        width: 168
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f4031f3cb7a741b12b5d05796bc28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 601
+        width: 164
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf2a0edf280d914f8e579d6d8e2621b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 603
+        width: 163
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd81d3eb4faa749902df6cf0b2f14b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 617
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a17d5f727797e47b56d1477192b562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 574
+        width: 188
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264cde4600e745439f0d2c6ae4e89c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 395
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade12d9038d6e0a4787cb0db09387330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 552
+        width: 439
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22634f201f6f38f4da198683a96c70d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 513
+        width: 167
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2c28a645d1e8489fd3ae0ae733dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 502
+        width: 266
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a712d895654d4098784bb247ff9a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 489
+        width: 179
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f3e20a986af24fa226f699ca669b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 520
+        width: 267
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82933d873b29cd947baa5a3fde0e93ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 464
+        width: 187
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327447f33fc9cb7489a3d7e94d683b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 470
+        width: 436
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7759c0c3aaf7de4a8c49d196b877273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 399
+        width: 179
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2647115fedd36b047a505fc660ef666c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 403
+        width: 267
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7c1425c4e53d94c9f85540415f92ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 376
+        width: 179
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11628a0652e5f2c44b525b82bacc8969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 423
+        width: 266
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25cfad1bc0bfd439928b304a328fe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 407
+        width: 440
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecad395b82b21f4faea71abc1d2b259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 326
+        width: 267
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f1ac0383722e4493772cc1158281b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 353
+        width: 184
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77942a255e6dbc4a895bd274ce7b428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 342
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ecf5f216ef3d24598eff408793dc81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 346
+        width: 439
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9b2745312ce084898e4466f0477e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 305
+        width: 267
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bf0b75062e2ee469b69f057842d09d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 265
+        width: 178
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6492f3d0afa1874bbbe10a779be8afc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 241
+        width: 184
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae576039fa341344a2dd3a5ec965213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 342
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2aaca8cfc7e34d8095592c6244b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 178
+        width: 292
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb04b613893ee442a6572ccbaa26cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 178
+        width: 288
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdde78eed8dd6c4b91889d61c684976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 207
+        width: 267
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3f31bfde315a4491d221ce3a98125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 153
+        width: 167
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a37980b1756c774f91bf77284201bd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 228
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ed4d20c0ac9f47a5e73f8a7b93f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 10
+        width: 287
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a80c7f57fc6b479701de0140dc199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 10
+        width: 286
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fbcc3cbe024774daa89739574d63a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 109
+        width: 266
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff41920026ddb4289c661ca224d1aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 131
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d633f64d149c4299fae5e4521cbcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 446
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfb04194d44483418a7f06f3342cde6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 9
+        width: 265
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7901e4dbac16afb4bb18debc2794e147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 34
+        width: 265
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae3d99ee1151b4ab8a0789a41eed68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: epidemic_panic_virus_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 35
+        width: 265
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93d87c8acdd8d045ab52a1cc2be5262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3868bdb37d07cab4d8d096dd49c273d6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
