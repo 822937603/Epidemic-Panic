@@ -6,6 +6,8 @@ public class PlayerController : MonoBehaviour
 {
     public float speed;
 
+    public int lives;
+
     private Rigidbody2D rb;
     private Vector2 moveVelocity;
 
@@ -16,6 +18,11 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
 
+    }
+
+    private void Awake()
+    {
+        lives = 3;
     }
 
     // Update is called once per frame
