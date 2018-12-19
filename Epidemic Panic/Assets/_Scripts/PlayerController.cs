@@ -17,7 +17,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
     }
 
     private void Awake()
@@ -51,5 +50,14 @@ public class PlayerController : MonoBehaviour
     {
         lookDirection = !lookDirection;
         transform.Rotate(Vector3.up * 180);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "WhiteCell")
+        {
+            lives--;
+            Destroy(gameObject);
+        }
     }
 }
