@@ -16,7 +16,10 @@ public class StageManager : MonoBehaviour
 
     private void Update()
     {
-        
+        if(organCellRemaining <= 0)
+        {
+            Time.timeScale = 0f;
+        }
     }
 
 }
