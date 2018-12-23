@@ -5,6 +5,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float speed;
+    public float turnSpeed;
+    public float speedInput;
+    public float turnInput;
 
     public int lives;
 
@@ -27,7 +30,10 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 moveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        speedInput = Input.GetAxis("Vertical");
+        turnInput = Input.GetAxis("Horizontal");
+
+        /*Vector2 moveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         moveVelocity = moveInput.normalized * speed;
 
         if(moveInput.x > 0 && lookDirection)
@@ -37,12 +43,14 @@ public class PlayerController : MonoBehaviour
         if (moveInput.x < 0 && !lookDirection)
         {
             Flip();
-        }
+        }*/
     }
 
     void FixedUpdate()
     {
-        rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
+        rb.AddRelativeForce(Vector2.up * speedInput);
+        rb.AddTorque(-turnInput);
+        //rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
         
     }
 
