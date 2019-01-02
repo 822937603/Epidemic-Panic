@@ -12,21 +12,21 @@ public class UITextScript : MonoBehaviour
 
 
     private PlayerController playerController;
-    private StageManager stageManager;
+    private StatManager statManager;
 
     private void Start()
     {
         playerController = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
-        stageManager = GameObject.FindGameObjectWithTag("StageManager").GetComponent<StageManager>();
+        statManager = GameObject.FindGameObjectWithTag("StageManager").GetComponent<StatManager>();
     }
 
     // Update is called once per frame
     void Update()
     {
         livesText.text = "Lives: " + playerController.lives.ToString();
-        organText.text = "Organ Cells: " + stageManager.organCellRemaining.ToString() + " alive";
+        organText.text = statManager.organCellRemaining.ToString() + "/" + statManager.organCellTotal.ToString();
         
-        if(stageManager.organCellRemaining <= 0)
+        if(statManager.organCellRemaining <= 0)
         {
             WinText();
         }
