@@ -11,6 +11,10 @@ public class PlayerController : MonoBehaviour
 
     public int lives;
 
+    public GameObject shot;
+    public float shotForce;
+    public Transform shotPosition;
+
     private Rigidbody2D rb;
     private Vector2 moveVelocity;
 
@@ -33,6 +37,12 @@ public class PlayerController : MonoBehaviour
         speedInput = Input.GetAxis("Vertical");
         turnInput = Input.GetAxis("Horizontal");
 
+        if(Input.GetButtonDown("Fire1"))
+        {
+            GameObject newShot = Instantiate(shot, shotPosition.position, shotPosition.rotation);
+            newShot.GetComponent<Rigidbody2D>().AddRelativeForce(Vector2.up * shotForce);
+            //Destroy (newShot, 3.0f); To destroy shot once it leaves the camera area
+        }
         /*Vector2 moveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         moveVelocity = moveInput.normalized * speed;
 
