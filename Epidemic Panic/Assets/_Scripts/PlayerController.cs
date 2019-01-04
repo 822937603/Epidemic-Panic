@@ -20,9 +20,12 @@ public class PlayerController : MonoBehaviour
 
     public bool lookDirection = true;
 
+    private GameOverUI gameOverUIScript;
+
     // Start is called before the first frame update
     void Start()
     {
+        gameOverUIScript = GameObject.FindGameObjectWithTag("StageManager").GetComponent<GameOverUI>();
         rb = GetComponent<Rigidbody2D>();
     }
 
@@ -75,6 +78,7 @@ public class PlayerController : MonoBehaviour
         if(collision.gameObject.tag == "WhiteCell")
         {
             lives--;
+            gameOverUIScript.GameOver();
             Destroy(gameObject);
         }
     }

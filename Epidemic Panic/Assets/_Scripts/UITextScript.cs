@@ -14,7 +14,7 @@ public class UITextScript : MonoBehaviour
     private PlayerController playerController;
     private StatManager statManager;
 
-    private void Start()
+    private void Awake()
     {
         playerController = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
         statManager = GameObject.FindGameObjectWithTag("StageManager").GetComponent<StatManager>();
