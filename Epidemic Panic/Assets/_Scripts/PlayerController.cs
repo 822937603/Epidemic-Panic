@@ -44,7 +44,7 @@ public class PlayerController : MonoBehaviour
         {
             GameObject newShot = Instantiate(shot, shotPosition.position, shotPosition.rotation);
             newShot.GetComponent<Rigidbody2D>().AddRelativeForce(Vector2.up * shotForce);
-            //Destroy (newShot, 3.0f); To destroy shot once it leaves the camera area
+            Destroy (newShot, 5.0f); //To destroy shot once it leaves the camera area
         }
         /*Vector2 moveInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         moveVelocity = moveInput.normalized * speed;
@@ -61,8 +61,8 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.AddRelativeForce(Vector2.up * speedInput);
-        rb.AddTorque(-turnInput);
+        rb.AddRelativeForce(Vector2.up * speedInput * speed);
+        rb.AddTorque(-turnInput * turnSpeed);
         //rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
         
     }
